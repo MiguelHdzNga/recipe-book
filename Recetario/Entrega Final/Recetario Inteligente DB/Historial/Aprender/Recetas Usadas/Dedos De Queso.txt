@@ -1,0 +1,21 @@
+{
+    "Nombre": "Dedos De Queso",
+    "Ingredientes": [
+        "1 huevo",
+        "3 tiras de queso para fundir",
+        "20 g de empanizador",
+        "20 mL de aceite para freir",
+        "1 mg de sal",
+        "1 cda de aderezo de tu preferencia "
+    ],
+    "Procedimiento": [
+        "Precalienta una caserola a fuego medio.",
+        "Rompe el huevo en un recipiente y agrega la sal.",
+        "Con ayuda de un tenedor mezcla lentamente el huevo y la sal.",
+        "Corta las esquinas de las tiras de queso",
+        " dandole forma semejante a un dedo.",
+        "Cubre la tira de queso con huevo.",
+        "Despues cubre la tira de queso con empanizador.",
+        "Pasa las tiras empanizadas al aceite. Espera unos minutos y giralas para que se cocinen por completo."
+    ]
+}

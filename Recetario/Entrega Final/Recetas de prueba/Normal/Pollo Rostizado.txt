@@ -1,0 +1,22 @@
+{
+    "Nombre": "Pollo Rostizado",
+    "Ingredientes": [
+        "Pollo.",
+        "\nChorizo 150g.",
+        "\nAlubias 500g.",
+        "\nCebolla 1p.",
+        "\nAjo 1 diente.",
+        "\nTomates deshidratados 3 tps.",
+        "\nTomillo 1 man.",
+        "\nLim\u00f3n amarillo 1p.",
+        "\nPaprica 1tps.",
+        "\nVino blanco 400mil.",
+        ""
+    ],
+    "Procedimiento": [
+        "Preparar el relleno:\nPreparar los ingredientes: cortar en cuartos el chorizo, cortar en cuadros la cebolla, y cortar el ajo finamente.\nFre\u00edr el chorizo a temperatura media-alta con un toque de aceite. \nAgregar la cebolla y el ajo.\nAgregar hojas de tomillo.\nAgregar las alubias drenadas y sazonar con sal y pimienta.\nAgregar los tomates deshidratados.\n",
+        "Preparar el pollo:\nSazonar con sal y pimienta.\nRellenar el pollo con el relleno.\nTapar con un lim\u00f3n.\nSazonar el pollo con aceite de oliva, paprica y sal y pimienta.\n",
+        "Hornear el pollo:\nPrecalentar el horno a 180\u00b0 C.\nEn una bandeja agregar el vino blanco y 400ml de agua.\nAgregar el pollo y las ramas de tomillo.\nCubrir la bandeja con papel aluminio.\nHornear por 1 hora con el papel alumno.\nRetirar el papel aluminio y cocinar por 30 min.\n",
+        "Preparar la salsa:\nRetirar el pollo de la bandeja.\nExprimir el lim\u00f3n, y mezclar asegur\u00e1ndose de raspar todos los bordes y costras de la bandeja.\nRetirar el relleno en un recipiente y verter un poco de salsa encima."
+    ]
+}

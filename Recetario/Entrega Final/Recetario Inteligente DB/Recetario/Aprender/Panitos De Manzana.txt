@@ -1,0 +1,18 @@
+{
+    "Nombre": "Panitos De Manzana",
+    "Ingredientes": [
+        "2 Rebanada de pan para sandwich",
+        "4 Rebanadas de manzana",
+        "1 cda de az\u00facar morena",
+        "3 cda de mantequilla sin sal",
+        "1 mg de canela"
+    ],
+    "Procedimiento": [
+        "Precalienta una parrilla a fuego medio.",
+        "Unta mantequilla en el pan.",
+        "Coloca 2 trozos de manzana por pieza de pan.",
+        "Coloca sobre la manzana un poco de mantequilla.",
+        "Pasalos a la parrilla y retira cuando la mantequilla se haya derretido.",
+        "Apaga el fuego y espera unos minutos antes de servir."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Nombre": "Cangreburguer",
+    "Ingredientes": [
+        "2 Panes con semillas de sesamo",
+        "2 Rebanadas de queso cheddar",
+        "1 Carne asada en parrilla (Si no consumes carne puedes utilizar 1 pieza de portobello)",
+        "2 Rebanadas de tomate",
+        "2 piezas de Pepinillos rebanados y lechuga.",
+        "1 cda de ketchup (bajo en sal) y Mayonesa.",
+        "Ingrediente secreto (amor)"
+    ],
+    "Procedimiento": [
+        " Precalienta una caserola a fuego bajo.",
+        "Unta la mayonesa en la parte interior del pan y calientalo un minuto.",
+        "En la parte inferior del pan: agrega la carne; el queso; los pepinillos; la lechuga y el tomate.",
+        "Agrega la ketchup.",
+        "Pon la parte superior del pan.",
+        "Sirvela en un plato."
+    ]
+}

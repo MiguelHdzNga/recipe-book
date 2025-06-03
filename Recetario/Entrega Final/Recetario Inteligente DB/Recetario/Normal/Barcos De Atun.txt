@@ -1,0 +1,20 @@
+{
+    "Nombre": "Barcos De Atun",
+    "Ingredientes": [
+        "1 Pepino",
+        "2 Tallo de apio",
+        "1 tza de at\u00fan en agua",
+        "1 cda mayonesa",
+        "2 cda de jitomate picado",
+        "1 cda de cebolla picada"
+    ],
+    "Procedimiento": [
+        "En un recipiente hondo",
+        " mezcla el at\u00fan",
+        " la mayonesa",
+        " el jitomate y la cebolla.",
+        "Parte el pepino a la mitad de manera horizontal y con una cuchara quitale las semillas.",
+        "Emplata con el pepino. A\u00f1ade una cucharada de la mezcla dentro del pepino y encaja el apio sobre la mezcla de at\u00fan",
+        " dandole forma de barco."
+    ]
+}

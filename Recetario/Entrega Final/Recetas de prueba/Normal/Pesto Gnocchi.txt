@@ -1,0 +1,21 @@
+{
+    "Nombre": "Pesto Gnocchi",
+    "Ingredientes": [
+        "Gnocchi",
+        "\nChampi\u00f1ones",
+        "\nTomates cherry",
+        "\nPesto",
+        "\nPistaches",
+        "\nMigajas de pan",
+        "\nQueso crema",
+        "\nQueso parmesano",
+        "\nHojuelas de pimiento",
+        ""
+    ],
+    "Procedimiento": [
+        "Preparar los ingredientes:\nCalentar en un recipiente hondo agua con sal.\nLavar y secar los tomates.\nCortar finamente los pistaches.\nCortar los champi\u00f1ones en rebanadas.\nCortar en mitades los tomates.\nRayar el queso.\n",
+        "Preparar las migajas:\nCalentar en un sart\u00e9n aceite de oliva.\nAgregar los pistaches y las migajas de pan.\nSazonar con sal y pimienta y fre\u00edr hasta que cambie de color y retirar.\n",
+        "Cocinar los vegetales:\nCalentar en el mismo sart\u00e9n aceite de oliva.\nFre\u00edr los champi\u00f1ones 3-4 min hasta que cambien de color y se deshidraten.\nAgregar los tomates y las hojuelas de pimiento y cocinar hasta que se suavicen los tomates.\nCocinar el gnocchi\nMientras los vegetales se cocinan, agregar el gnocchi al agua hirviendo 3-4 min hasta que floten.\nRemover y guardar el agua.\n",
+        "Terminar:\nAgregar el gnocchi a la mezcla de vegetales y unas cucharadas grandes del agua en la que se cocinaron.\nCocinar 1-2 min revolviendo constantemente hasta que est\u00e9 bien mezclado.\nBajar el fuego, agregar el pesto y el queso crema y mezclar (de ser necesario agregue m\u00e1s agua de gnocchi).\nSazonar con sal y pimienta y servir con las migajas con pistaches y queso parmesano."
+    ]
+}

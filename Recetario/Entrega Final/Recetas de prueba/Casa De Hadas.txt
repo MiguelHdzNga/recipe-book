@@ -1,0 +1,20 @@
+{
+    "Nombre": "Casa De Hadas",
+    "Ingredientes": [
+        "2 jitomates tamanio manzana",
+        "4 huevos ",
+        "1 L de agua",
+        "Mayonesa o aderezo de tu preferencia."
+    ],
+    "Procedimiento": [
+        "Precalienta una olla a fuego alto.",
+        "Cuando el agua este hirviendo agrega los huevos y deja que se cocinen durante 10 minutos.",
+        "Retira del fuego y espera a que se enfrien.",
+        "Cuando se enfrien",
+        " retira la cascara.",
+        "Lava el jitomate. Partelo a la mitad y con una cuchara saca la pulpa dentro de este.",
+        "Corta las puntas de cada huevo.",
+        "Emplata el huevo con la parte cortada sobre el plato.",
+        "Coloca la mita de un jitomate sobre cada huevo y decora con lo mayonesa o el aderezo que hayas elegido."
+    ]
+}

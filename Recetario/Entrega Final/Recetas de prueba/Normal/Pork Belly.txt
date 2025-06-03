@@ -1,0 +1,23 @@
+{
+    "Nombre": "Pork Belly",
+    "Ingredientes": [
+        "Pork belly 4k.",
+        "Cebollas 4 \u2013 5 piezas.",
+        "Verduras (hinojo 3p, apio 1 p, papas 6p, camotes 3p, zanahorias 6p, cebollines 2 man).",
+        "Ajo 2 bulbos.",
+        "Mezcla de especias 2 tps.",
+        "Cidra 400mil.",
+        "Caldo de pollo 3p.",
+        "Mostaza 1 tps.",
+        "Romero 1 man.",
+        "Harina 3 tps.",
+        ""
+    ],
+    "Procedimiento": [
+        "Preparar el cerdo:\nPrecalentar el horno a 250\u00b0C.\nHacer l\u00edneas en la grasa del cerdo.\nSazonar con pimienta y sal y 2 cucharadas de la mezcla de especias (rociar con aceite de oliva la piel del cerdo).\nCortar en cuartos las cebollas y acomodar en la bandeja.\nAcomodar el cerdo arriba de las cebollas y meter al horno 40-50 min.\n",
+        "Preparar el cerdo:\nPrecalentar el horno a 250\u00b0C.\nHacer l\u00edneas en la grasa del cerdo.\nSazonar con pimienta y sal y 2 cucharadas de la mezcla de especias (rociar con aceite de oliva la piel del cerdo).\nCortar en cuartos las cebollas y acomodar en la bandeja.\nAcomodar el cerdo arriba de las cebollas y meter al horno 40-50 min.\n",
+        "Preparar las verduras:\nCortar en pedazos grandes las Papas, camotes, zanahorias, apio, hinojo, etc. (sin pelar).\nAgregar ajo y ramas de romero.\nAgregar sal y pimienta y mezclar en una bandeja grande.\n",
+        "Hornear a baja temperatura:\nSacar el cerdo del horno y bajar la temperatura a 150\u00b0C.\nCambiar el cerdo a una reja y acomodar arriba de las verduras.\nCocinar 4 hrs mezclando las verduras cada 30.\n",
+        "Preparar la salsa\nQuitar el exceso de grasa de las cebollas.\nCocinar a fuego medio-alto y agregar la sidra.\n"
+    ]
+}

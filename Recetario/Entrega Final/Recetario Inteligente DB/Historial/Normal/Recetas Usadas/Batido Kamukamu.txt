@@ -1,0 +1,15 @@
+{
+    "Nombre": "Batido Kamukamu",
+    "Ingredientes": [
+        "1/4 Manzana congelada",
+        "1 Fresa congelada",
+        "1 Frambueza congelada",
+        "1 tz de leche",
+        "1 cda de azucar",
+        "1 cda de chispas de colores"
+    ],
+    "Procedimiento": [
+        "Agrega todos los ingredientes a la licuadora. Enciendela y espera a que ya no quede fruta entera.",
+        "Sirve en un vaso y decora con chispas de colores."
+    ]
+}

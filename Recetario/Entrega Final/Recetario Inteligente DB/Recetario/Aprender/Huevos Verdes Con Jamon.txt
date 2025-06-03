@@ -1,0 +1,15 @@
+{
+    "Nombre": "Huevos Verdes Con Jamon",
+    "Ingredientes": [
+        "1 Huevo",
+        "1 Rebanada de jamon",
+        "1 mg de sal",
+        "1 Gota de colorante liquido comestible color verde"
+    ],
+    "Procedimiento": [
+        "Precalienta una caserola a fuego medio.",
+        "Rompe el huevo en un recipiente. Agrega la sal y el colorante.",
+        "Con ayuda de un tenedor mezcla lentamente el huevo; la sal y el colorante.",
+        "Corta el jam\u00f3n en peque\u00f1as tiras."
+    ]
+}
